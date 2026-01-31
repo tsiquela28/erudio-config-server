@@ -10,7 +10,7 @@ spring:
       enabled: false
 
 greeting-service:
-  greeting: "Hola"
+  greeting: "Pronto"
   default-value: "Mundo"
 
 management:

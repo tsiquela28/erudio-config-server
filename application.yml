@@ -10,7 +10,7 @@ spring:
       enabled: false
 
 greeting-service:
-  greeting: "Hello"
+  greeting: "Ready"
   default-value: "World"
 
 management:
